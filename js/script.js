@@ -5,43 +5,43 @@ const translations = {
         "Home": "Ballina",
         "Scholarships": "Bursat",
         "Programs": "Programet",
-        "Other": "TÃ« tjera",
+        "Other": "Të tjera",
         "About": "Rreth nesh",
 
         // Reminder & Feedback
-        "Reminder": "KujtesÃ«",
-        "Upcoming program deadlines this month.": "Afatet e programeve kÃ«tÃ« muaj.",
+        "Reminder": "Kujtesë",
+        "Upcoming program deadlines this month.": "Afatet e programeve këtë muaj.",
         "CLICK HERE TO ENTER FEEDBACK ON EDUGATEWAY :)": "KLIKO KÃ‹TU PÃ‹R TÃ‹ DHÃ‹NÃ‹ KOMENTE PÃ‹R EDUGATEWAY :)",
 
         // Home page
-        "Unlock global opportunities for students everywhere": "Zbuloni mundÃ«si globale pÃ«r studentÃ«t kudo",
-        "EduGateway helps students discover global scholarships, programs and learning opportunities.": "EduGateway ndihmon studentÃ«t tÃ« zbulojnÃ« bursa, programe dhe mundÃ«si mÃ«simore globale.",
-        "Many students miss life-changing opportunities simply because they never hear about them.": "ShumÃ« studentÃ« humbasin mundÃ«si qÃ« ndryshojnÃ« jetÃ«n thjesht sepse nuk dÃ«gjojnÃ« kurrÃ« pÃ«r to.",
-        "Discover fully funded scholarships worldwide.": "Zbuloni bursa tÃ« financuara plotÃ«sisht nÃ« mbarÃ« botÃ«n.",
-        "Find summer programs and research opportunities.": "Gjeni programe verore dhe mundÃ«si kÃ«rkimore.",
+        "Unlock global opportunities for students everywhere": "Zbuloni mundësi globale për studentët kudo",
+        "EduGateway helps students discover global scholarships, programs and learning opportunities.": "EduGateway ndihmon studentët të zbulojnë bursa, programe dhe mundësi mësimore globale.",
+        "Many students miss life-changing opportunities simply because they never hear about them.": "Shumë studentë humbasin mundësi që ndryshojnë jetën thjesht sepse nuk dëgjojnë kurrë për to.",
+        "Discover fully funded scholarships worldwide.": "Zbuloni bursa të financuara plotësisht në mbarë botën.",
+        "Find summer programs and research opportunities.": "Gjeni programe verore dhe mundësi kërkimore.",
         "Why EduGateway?": "Pse EduGateway?",
-        "EduGateway collects opportunities into one platform so students can easily find them.": "EduGateway mbledh mundÃ«sitÃ« nÃ« njÃ« platformÃ« tÃ« vetme qÃ« studentÃ«t t'i gjejnÃ« lehtÃ«.",
+        "EduGateway collects opportunities into one platform so students can easily find them.": "EduGateway mbledh mundësitë në një platformë të vetme që studentët t'i gjejnë lehtë.",
 
         // About page
         "About EduGateway": "Rreth EduGateway",
-        "Many talented students miss opportunities simply because they never hear about them.": "ShumÃ« studentÃ« tÃ« talentuar humbasin mundÃ«si thjesht sepse nuk dÃ«gjojnÃ« kurrÃ« pÃ«r to.",
-        "EduGateway was created to bring scholarships, programs and competitions into one platform.": "EduGateway u krijua pÃ«r tÃ« sjellÃ« bursa, programe dhe konkurse nÃ« njÃ« platformÃ« tÃ« vetme.",
+        "Many talented students miss opportunities simply because they never hear about them.": "Shumë studentë të talentuar humbasin mundësi thjesht sepse nuk dëgjojnÃ« kurrë për to.",
+        "EduGateway was created to bring scholarships, programs and competitions into one platform.": "EduGateway u krijua pÃ«r të sjellë bursa, programe dhe konkurse në një platformë të vetme.",
 
         // Other page
-        "Other Opportunities": "MundÃ«si tÃ« Tjera",
-        "Here you will find competitions, fellowships and online courses.": "KÃ«tu do tÃ« gjeni konkurse, fellowship dhe kurse online.",
+        "Other Opportunities": "Mundësi të Tjera",
+        "Here you will find competitions, fellowships and online courses.": "Këtu do të gjeni konkurse, fellowship dhe kurse online.",
 
         // Programs page
-        "A summer leadership and academic enrichment program.": "NjÃ« program veror i lidershipit dhe pasurimit akademik.",
+        "A summer leadership and academic enrichment program.": "Një program veror i lidershipit dhe pasurimit akademik.",
 
         // Scholarships page
-        "Fully funded scholarship to study in the United States.": "BursÃ« e financuar plotÃ«sisht pÃ«r tÃ« studiuar nÃ« Shtetet e Bashkuara.",
+        "Fully funded scholarship to study in the United States.": "Bursë e financuar plotësisht për të studiuar në Shtetet e Bashkuara.",
 
         // Search placeholder
-        "Search opportunities": "KÃ«rko mundÃ«si",
+        "Search opportunities": "Kërko mundÃ«si",
 
         // Filter options
-        "All": "TÃ« gjitha"
+        "All": "Të gjitha"
     }
 };
 
@@ -137,4 +137,5 @@ document.addEventListener("DOMContentLoaded", function() {
     initializeTranslation();
     initializeFilter();
 });
+
 
